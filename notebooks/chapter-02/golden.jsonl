@@ -1,0 +1,3 @@
+{"q": "What is the refund window?", "answer": "30 days", "relevant_ids": ["corpus/policy.txt#0"]}
+{"q": "Who is the CEO?", "answer": "Jane Doe", "relevant_ids": ["corpus/about.txt#0"]}
+{"q": "When is support available?", "answer": "Mon-Fri 9am-6pm Central", "relevant_ids": ["corpus/support.txt#0"]}
